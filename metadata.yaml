@@ -1,0 +1,36 @@
+_repo: The-Young-Cavalier--A-Story-of-the-Civil-Wars_42689
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: archival
+  image_path: 42689-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2013-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Juvenile fiction'
+title: 'The Young Cavalier: A Story of the Civil Wars'
+url: http://www.gutenberg.org/ebooks/42689
